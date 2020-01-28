@@ -1,0 +1,2 @@
+class PlayerLostError(Exception):
+    pass
